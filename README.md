@@ -39,5 +39,6 @@ In my free time, I enjoy writing about my technical learnings and occasionally c
 * **LinkedIn:** [https://www.linkedin.com/in/gauravhoskote/](https://www.linkedin.com/in/gauravhoskote/)
 * **GitHub:** [https://github.com/gauravhoskote](https://github.com/gauravhoskote)
 * **Email:** [gaurav.hoskote@gmail.com](mailto:gaurav.hoskote@gmail.com)
+* **Portfolio:** [https://gauravhoskote.github.io/](https://gauravhoskote.github.io/)
 
 If you’re driven by curiosity and excited about building scalable, intelligent systems, feel free to connect — I’m always happy to exchange ideas.
